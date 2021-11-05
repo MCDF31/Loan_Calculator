@@ -2,11 +2,11 @@
 Jetbrains Academy Project
 
 
-About
+## Description
 
 Personal finances are an important part of life. Sometimes you need some extra money and decide to take a loan, or you want to buy a house using a mortgage. To make an informed decision, you need to be able to calculate different financial parameters. Let’s make a program that can help us with that!
 
-Learning outcomes
+## Learning outcomes
 
 You will practice using mathematics and Python in everyday tasks and learn how to use third-party modules and libraries. You will also learn more about different financial instruments.
 
@@ -31,3 +31,16 @@ Calculate real credit parameters by using the mathematical capabilities of Pytho
 Stage 4/4: Differentiate payment
 
 Make the credit calculator be able to work with different types of payment and to work with command-line arguments.
+
+## Built With
+
+* Python 3.7
+
+## Authors
+
+Marcos N. Costa
+[@Mcosta215](https://twitter.com/Mcosta215)
+
+## Acknowledgments
+
+* [Jetbrains Academy](https://hyperskill.org)
